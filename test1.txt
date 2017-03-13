@@ -1,2 +1,3 @@
 56
 Git is free!
+Git is free software.
