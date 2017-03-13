@@ -1,7 +1,3 @@
 56
 Git is free!
-<<<<<<< HEAD
 Git is new free software.
-=======
-Git is new free software.
->>>>>>> dev
