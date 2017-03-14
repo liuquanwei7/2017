@@ -1,0 +1,14 @@
+classmates=['Tony','Mike','Sony']
+print(classmates)
+print(classmates[0])
+print(classmates[-1])
+classmates.append('iphone')
+classmates.insert(1,'nokia')
+print(classmates)
+classmates.pop()
+print(classmates)
+classmates.pop(1)
+print(classmates)
+#替换字符串
+classmates[1]='Linux'
+print(classmates)

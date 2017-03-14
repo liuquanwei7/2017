@@ -1,0 +1,10 @@
+print(ord('A'))
+print(ord('中'))
+print(chr(66))
+print('ABC'.encode('ascii'))
+print('中文'.encode('utf-8'))
+print(b'ABC'.decode('ascii'))
+len('ABC')
+a=100.0
+print('%d'%a)
+
